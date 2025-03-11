@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Peter</h1>
-<h3 align="center">A passionate software developer from 🇩🇰 Denmark</h3>
+<h3 align="center">A 15 year old software developer from 🇩🇰 Denmark</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinumzz&label=Profile%20views&color=0e75b6&style=flat" alt="vinumzz" /> </p>
 
