@@ -28,7 +28,7 @@ I'm a passionate **web and app developer**, building custom websites and mobile 
 
 
 ## ✨ About Me
-- 🇩🇰 I'm 15 and live in Denmark.
+- 🇩🇰 I'm 16 and live in Denmark.
 - 💡 I build **custom websites and apps from scratch** — no WordPress here!
 - 📚 I'm currently learning **TypeScript** and improving my **React Native** skills.
 - 🖥️ I also help people with **IT support** and **network setups**.
