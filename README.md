@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Peter!
-#### 🇩🇰 15 y/o developer from Denmark
+#### 🇩🇰 16 y/o developer from Denmark
 
 I'm a passionate **web and app developer**, building custom websites and mobile apps from scratch. I focus on **clean code**, **fast performance**, and **user-friendly design**. Whether it's a business website or a mobile app for families, I love turning ideas into real, working products.
 
