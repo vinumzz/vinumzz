@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Peter!
 #### 🇩🇰 16 y/o developer from Denmark
 
-I'm a passionate **web and app developer**, building custom websites and mobile apps from scratch. I focus on **clean code**, **fast performance**, and **user-friendly design**. Whether it's a business website or a mobile app for families, I love turning ideas into real, working products.
+I'm a **web and app developer**, building custom websites and mobile apps from scratch. I focus on **clean code**, **fast performance**, and **user-friendly design**. Whether it's a business website or a mobile app for families, I love turning ideas into real, working products.
 
 
 ## 🛠️ Tech Stack
@@ -25,17 +25,3 @@ I'm a passionate **web and app developer**, building custom websites and mobile 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Hostinger VPS](https://img.shields.io/badge/Hostinger-673DE6?style=flat&logo=hostinger&logoColor=white)
-
-
-## ✨ About Me
-- 🇩🇰 I'm 16 and live in Denmark.
-- 💡 I build **custom websites and apps from scratch** — no WordPress here!
-- 📚 I'm currently learning **TypeScript** and improving my **React Native** skills.
-- 🖥️ I also help people with **IT support** and **network setups**.
-
----
-
-## 📫 How to reach me
-- 🌐 [petervinum.dk](https://petervinum.dk)
-- 📧 mail@petervinum.dk
-- 🐙 Here on GitHub!
